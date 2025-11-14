@@ -1,5 +1,5 @@
 public class Trial {
    public static void setValue(int i) {
-    i = 10;
+    i = 9;
    }
 }
